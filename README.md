@@ -152,16 +152,6 @@ See [instructions here](docs/nginx-reverse-proxy.md) for using nginx+certbot (le
 
 # Support
 
-If you get value from this project, please consider supporting my work with a donation. All donations are truly appreciated.
-
-Donate via BTC Pay Server:
-
-* [https://donate.bitcoinexplorer.org](https://donate.bitcoinexplorer.org)
-
-Or, via a lightning address:
-
-thanks@donate.btc21.org
-
 
 [npm-ver-img]: https://img.shields.io/npm/v/btc-rpc-explorer.svg?style=flat
 [npm-ver-url]: https://www.npmjs.com/package/btc-rpc-explorer
